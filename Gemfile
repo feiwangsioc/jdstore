@@ -35,6 +35,7 @@ gem 'devise'
 gem 'will_paginate'
 gem 'popper_js', '~> 1.11', '>= 1.11.1'
 gem 'jquery-rails'
+gem 'font-awesome-rails'
 
 
 group :development, :test do
